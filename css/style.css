@@ -1,0 +1,240 @@
+body {
+    
+    margin: 0;
+    padding: 0;
+    
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 10px;
+    line-height: 1.6;
+    background: #ffffff
+   
+}
+*,
+*:before,
+*:after {
+    box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 100%;
+    max-width: 1700px;
+    margin-left: 170px;
+}
+.intro_inner{
+     width: 100%;
+     max-width: 880px;
+     margin: 0 auto;
+}
+
+.acc_logo {
+     width: 100%;
+     max-width: 880px;
+     margin-left: 290px;
+}
+
+.acc1 {
+     margin: 0 auto;
+     padding: 0;
+     background-color: #ff8663;
+     border: #ffffff;
+     height: 36px;
+     width: 460px;
+     display: inline-block;
+     border-radius: 15px;
+     font-family: 'Fira Sans', sans-serif;
+     font-size: 12px;
+     color: #ffffff;
+     padding-left:10px; 
+     padding-top: 8px;
+          
+}
+
+
+.acc2 {
+     margin: 0 auto;
+     background-color: #d7d2d2;
+     border: #ffffff;
+     height: 0px;
+     width: 460px;
+     display: inline-block;
+     border-radius: 15px;
+     font-family: 'Fira Sans', sans-serif;
+     font-size: 12px;
+     line-height: 12px;
+     color: #262525;
+     padding-left:10px; 
+     padding-top: 8px;
+     
+     display: none;
+     overflow: hidden;
+     opacity: 0;
+     transition: 10s;
+}
+.visible {
+     opacity: 1;
+     height: 120px;
+     display: inline-block;
+     
+}
+
+.acc3 {
+     margin: 0 auto;
+     background-color: #d7d2d2;
+     border: #ffffff;
+     height: 36px;
+     width: 460px;
+     display: inline-block;
+     border-radius: 15px;
+     font-family: 'Fira Sans', sans-serif;
+     font-size: 12px;
+     color: #262525;
+     padding-left:10px; 
+     padding-top: 8px;
+}
+.acc4 {
+     margin: 0 auto;
+     background-color: #696666;
+     border: #ffffff;
+     height: 36px;
+     width: 460px;
+     display: inline-block;
+     border-radius: 15px;
+     font-family: 'Fira Sans', sans-serif;
+     font-size: 12px;
+     color: #262525;
+     padding-left:10px; 
+     padding-top: 8px; 
+}
+.acc5 {
+     margin: 0 auto;
+     background-color: #d7d2d2;
+     border: #ffffff;
+     height: 36px;
+     width: 460px;
+     display: inline-block;
+     border-radius: 15px;
+     font-family: 'Fira Sans', sans-serif;
+     font-size: 12px;
+     color: #262525;
+     padding-left:10px; 
+     padding-top: 8px; 
+}
+.acc6 {
+     margin: 0 auto;
+     background-color: #696666;
+     border: #ffffff;
+     height: 36px;
+     width: 460px;
+     display: inline-block;
+     border-radius: 15px;
+     font-family: 'Fira Sans', sans-serif;
+     font-size: 12px;
+     color: #262525;
+     padding-left:10px; 
+     padding-top: 8px;
+}
+.acc7 {
+     margin: 0 auto;
+     background-color: #d7d2d2;
+     border: #ffffff;
+     height: 0px;
+     width: 460px;
+     display: inline-block;
+     border-radius: 15px;
+     font-family: 'Fira Sans', sans-serif;
+     font-size: 12px;
+     line-height: 12px;
+     color: #262525;
+     padding-left:10px; 
+     padding-top: 8px;
+     
+     display: none;
+     overflow: hidden;
+     opacity: 0;
+     transition: 1s;
+}
+.visible {
+     opacity: 1;
+     height: 120px;
+     display: inline-block;
+     
+}
+.acc8 {
+     margin: 0 auto;
+     background-color: #d7d2d2;
+     border: #ffffff;
+     height: 0px;
+     width: 460px;
+     display: inline-block;
+     border-radius: 15px;
+     font-family: 'Fira Sans', sans-serif;
+     font-size: 12px;
+     line-height: 12px;
+     color: #262525;
+     padding-left:10px; 
+     padding-top: 8px;
+     
+     display: none;
+     overflow: hidden;
+     opacity: 0;
+     transition: 1s;
+}
+.visible {
+     opacity: 1;
+     height: 120px;
+     display: inline-block;
+     
+}
+.acc9 {
+     margin: 0 auto;
+     background-color: #d7d2d2;
+     border: #ffffff;
+     height: 0px;
+     width: 460px;
+     display: inline-block;
+     border-radius: 15px;
+     font-family: 'Fira Sans', sans-serif;
+     font-size: 12px;
+     line-height: 12px;
+     color: #262525;
+     padding-left:10px; 
+     padding-top: 8px;
+     
+     display: none;
+     overflow: hidden;
+     opacity: 0;
+     transition: 1s;
+}
+.visible {
+     opacity: 1;
+     height: 120px;
+     display: inline-block;
+     
+}
+.acc10 {
+     margin: 0 auto;
+     background-color: #d7d2d2;
+     border: #ffffff;
+     height: 0px;
+     width: 460px;
+     display: inline-block;
+     border-radius: 15px;
+     font-family: 'Fira Sans', sans-serif;
+     font-size: 12px;
+     line-height: 12px;
+     color: #262525;
+     padding-left:10px; 
+     padding-top: 8px;
+     
+     display: none;
+     overflow: hidden;
+     opacity: 0;
+     transition: 1s;
+}
+.visible {
+     opacity: 1;
+     height: 120px;
+     display: inline-block;
+     
+}
